@@ -1,4 +1,7 @@
+# PRODIGY_CS_01
+
 Caesar Cipher Project
+
 🔐 Encryption & Decryption Using Python
 
 
@@ -40,4 +43,4 @@ Simple and clean code
 
 GUI for easy usage
 
-# PRODIGY_CS_01
+
